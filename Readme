@@ -1,0 +1,10 @@
+please start by cloning the Earthquake-predictor 
+
+and then create a react app named disaster using 
+
+cd Earthquake-predictor 
+npx create-react-app disaster
+
+then copy everything from disaster folder to here 
+
+due to the large size of the node modules we are not able to upload it 
